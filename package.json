@@ -1,0 +1,10 @@
+{
+    "name": "epycs-utilities",
+    "description": "A package that contains every utility stuff we are using in our projects.",
+    "version": "0.1.0",
+    "main": "src/index.ts",
+    "dependencies": {
+        "@types/node": "22.10.7",
+        "typescript": "5.7.3"
+    }
+}
